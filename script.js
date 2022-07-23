@@ -4,7 +4,7 @@ var size = 5;
 'ares','comeback izrael','crazy reaction time','8+ cs/min','penta','gg ez','0,00 died','polish mountain','toxic',
 'win','lose','+14','+18','baron we cant end copium','dont start baron take wolves','wypierdolka z sumonerkami/ultem',
 'enchanting table language','gud game rito everything is fine ','objective steal','first pick','antyheal','duo uwu botlane','jest smok ale gank top worth bardziej','czytasz enemy jak ksiazke',
-            'aram on mid'];
+            'aram on mid','gay force if you support lgbt','queue dodge'];
 
     var cards = (function createCards() {
       var cards = [];

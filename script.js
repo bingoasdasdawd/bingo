@@ -1,7 +1,7 @@
 var size = 5;
     var texts = ['akcja kompas','average promo team','dodge','ranged top','3/0 > 3/3','jg diff','top diff','banned your champ','5+ min queue',
 'afk','wtf balanced x champ rito???','lagi','65% kp','wygramy na smoki','ff15','faker mid','1v2 gank','1s ult proc',
-'ares','comeback izrael','crazy reaction time','8+ cs/min','penta','gg ez','0,00 died','polish mountain','toxic',
+'ares','comeback izrael','crazy reaction time','8+ cs/min/supp item 17','penta','gg ez','0,00 died','polish mountain','toxic',
 'win','lose','+14','+18','baron we cant end copium','dont start baron take wolves','wypierdolka z sumonerkami/ultem',
 'enchanting table language','gud game rito everything is fine ','objective steal','first pick','antyheal','duo uwu botlane','jest smok ale gank top worth bardziej','czytasz enemy jak ksiazke',
             'aram on mid','gay force if you support lgbt','queue dodge'];

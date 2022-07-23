@@ -3,7 +3,7 @@ var size = 5;
 'afk','wtf balanced x champ rito???','lagi','65% kp','wygramy na smoki','ff15','faker mid','1v2 gank','1s ult proc',
 'ares','comeback izrael','crazy parry','8+ cs/min','penta','gg ez','0,00 died','polish mountain','toxic',
 'win','lose','+14','+18','baron we cant end copium','dont start baron take wolves','wypierdolka z sumonerkami/ultem',
-'enchanting table language','gud game rito everything is fine ','objective steal',];
+'enchanting table language','gud game rito everything is fine ','objective steal','first pick','antyheal','duo uwu botlane'];
 
     var cards = (function createCards() {
       var cards = [];
